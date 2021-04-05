@@ -1,5 +1,6 @@
 const profile = {
-  fullName: 'Website Owner',
+  fullName: 'Siam Islam
+',
   description: 'FRONT-END DEVELOPER',
   // The basepath is the assets folder
   /// the file sould be imported in assets-import.js
